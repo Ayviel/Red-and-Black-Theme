@@ -1,7 +1,10 @@
 {} 
 
 /* Backgrounds */
-
+.radio-theme.light label,
+.radio-theme.dark label{
+    background-image: url("https://puu.sh/sy6kU.png") !important;
+}
 .app,
 .callout-backdrop {
     background-image: url("https://puu.sh/sy6kU.png");
